@@ -7,6 +7,7 @@
 
 
 ### Flash Nucleo-L476RG
+Télécharger le fichier [.hex](NUCLEO_L476RG-20230426-v1.20.0.hex)
 
 
 ### Running 
